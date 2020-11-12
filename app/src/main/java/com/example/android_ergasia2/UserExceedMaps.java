@@ -19,8 +19,7 @@ import com.google.android.gms.maps.model.Marker;
 import com.google.android.gms.maps.model.MarkerOptions;
 
 /*
-Kollias Anastasios MPSP19018
-Ergasia 2 - Android
+Kollias Anastasios
  */
 
 public class UserExceedMaps extends FragmentActivity implements OnMapReadyCallback {

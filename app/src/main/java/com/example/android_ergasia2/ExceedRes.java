@@ -7,8 +7,7 @@ import android.os.Bundle;
 import android.widget.TextView;
 
 /*
-Kollias Anastasios MPSP19018
-Ergasia 2 - Android
+Kollias Anastasios
  */
 
 

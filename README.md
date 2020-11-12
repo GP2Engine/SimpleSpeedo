@@ -1,7 +1,6 @@
 # SimpleSpeedo #
 
-As the title suggests, SimpleSpeedo is a pretty straightforward Android application that monitors your speed live and offers you few extra functions such as speed limit exceed
-visual warnings and loggings of such events.
+As the title suggests, SimpleSpeedo is a pretty straightforward Android application, written in Java, that monitors your speed live and offers you few extra functions such as speed limit exceed visual warnings and loggings of such events.
 
 * # Speed Monitoring #
 SimpleSpeedo can give show your current speed live and precisely through a comprehensive UI both in kilometers per hour and miles per hour.

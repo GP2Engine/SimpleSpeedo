@@ -32,8 +32,7 @@ import java.util.Formatter;
 import java.util.Locale;
 
 /*
-Kollias Anastasios MPSP19018
-Ergasia 2 - Android
+Kollias Anastasios
  */
 
 public class SpeedoMeter extends AppCompatActivity implements LocationListener {

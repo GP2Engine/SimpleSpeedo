@@ -16,8 +16,7 @@ import android.widget.Toast;
 import java.util.ArrayList;
 
 /*
-Kollias Anastasios MPSP19018
-Ergasia 2 - Android
+Kollias Anastasios
  */
 
 public class UserExceedList extends AppCompatActivity {

@@ -10,8 +10,7 @@ import android.widget.EditText;
 import android.widget.Toast;
 
 /*
-Kollias Anastasios MPSP19018
-Ergasia 2 - Android
+Kollias Anastasios
  */
 
 public class MainActivity extends AppCompatActivity {

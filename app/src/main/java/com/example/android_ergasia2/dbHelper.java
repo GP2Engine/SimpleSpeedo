@@ -13,8 +13,7 @@ import java.util.Date;
 import java.util.Locale;
 
 /*
-Kollias Anastasios MPSP19018
-Ergasia 2 - Android
+Kollias Anastasios
  */
 
 public class dbHelper extends SQLiteOpenHelper {

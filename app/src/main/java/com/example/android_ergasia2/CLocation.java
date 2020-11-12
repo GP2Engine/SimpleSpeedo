@@ -4,7 +4,6 @@ import android.location.Location;
 
 /*
 Kollias Anastasios MPSP19018
-Ergasia 2 - Android
  */
 
 public class CLocation extends Location {

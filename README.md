@@ -15,7 +15,10 @@ The user can view all of his exceedance log events by their timestamp and after 
 on a map (powered by Google Maps API) markings that represent all the places that you and other users exceeded the predetermined speed limit.
 
 * # To be done #
-  *App will receive a new icon and SimpleSpeedo will be added as its name.
-  *Optimizations on GPS usage.
-  *Custom/Dynamic speed limits.
-  *Connection to Firebase.
+App will receive a new icon and SimpleSpeedo will be added as its name.
+
+Optimizations on GPS usage.
+
+Custom/Dynamic speed limits.
+
+Connection to Firebase.
